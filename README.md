@@ -13,7 +13,9 @@ I wanted to create a Hello World app using Python, vscode, and git.
 # Development Environment
 
 Visual Studio Code
+
 Pyhton 3.10.12
+
 Git
 
 {Describe the programming language that you used}
