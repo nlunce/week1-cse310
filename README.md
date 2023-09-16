@@ -6,7 +6,7 @@ I wanted to create a Hello World app using Python, vscode, and git.
 
 {Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/Yhkl5d6pyFI))
+[Software Demo Video]([https://youtu.be/Yhkl5d6pyFI)
 
 ![Screenshot of  the environment](env.png)
 
